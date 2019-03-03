@@ -1,0 +1,55 @@
+body {
+  background: url("../images/img1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+li {
+  padding: 10px;
+  margin: 5px;
+  background: yellow;
+  border: solid 1px #6cf8fc;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.jumbotron {
+  background-color: #6cf8fc;
+  color: black;
+  text-align: right;
+  padding: 30px;
+}
+
+.goodb {
+  color: black;
+  text-shadow: 2px 2px 8px yellow;
+}
+
+.gburger {
+  color: yellow;
+  text-shadow: 2px 2px 8px black;
+}
+
+.menu {
+  background-color: #C8C8C8;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  max-width: 750px;
+  border: solid 1px #6cf8fc;
+  opacity: 0.95;
+  margin-bottom: 30px;
+}
+
+.row {
+  margin-bottom: 40px;
+}
+
+h4 {
+  margin-left: 5px;
+}
